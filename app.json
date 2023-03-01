@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dcdc4bdf-5d3d-4fb3-8d37-6909e94fa70a"
+      }
+    },
+    "owner": "luft"
   }
 }
